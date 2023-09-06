@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f682cccd9f71ae49a3fd964cfb6b54c, type: 3}
+  m_Name: AmethystDrop
+  m_EditorClassIdentifier: 
+  id: 5
+  displayName: AmethystOre
+  icon: {fileID: 21300000, guid: 3b31be5e3d0469e43bb2bc590821f6f0, type: 3}
+  prefab: {fileID: 6956426071115668023, guid: 82032efbe316d3c4887f5cb568ba36e3, type: 3}
